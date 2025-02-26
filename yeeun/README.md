@@ -1,6 +1,7 @@
 # GDG on Campus 2024 AI/ML 개인 프로젝트
 
 ## 👕 옷을 구별해주는 AI 서비스
+https://clothes-dectention-29f6gnp4nanr7vymeaqwxw.streamlit.app/
 
 ## Introduction
 이 프로젝트는 YOLOv8과 Streamlit을 활용하여 실시간으로 의류 종류(Tshirt, jacketlong-dress, long-skirt, midi-dress, midi-skirt, pants, shirt, short, short-dress, short-skirt, skirt, sweater 등)를 분류하는 서비스입니다. 

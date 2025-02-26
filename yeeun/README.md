@@ -6,8 +6,8 @@
 
 
 ## Technology Stack
-YOLOv8 – 실시간 객체 탐지 및 분류
-Streamlit – 간단한 웹 인터페이스 제공
-OpenCV – 영상 처리 및 웹캠 데이터 활용
-PyTorch – YOLO 모델 실행 및 추론
-streamlit-webrtc – 웹캠 스트리밍 처리
+- YOLOv8 – 실시간 객체 탐지 및 분류
+- Streamlit – 간단한 웹 인터페이스 제공
+- OpenCV – 영상 처리 및 웹캠 데이터 활용
+- PyTorch – YOLO 모델 실행 및 추론
+- streamlit-webrtc – 웹캠 스트리밍 처리

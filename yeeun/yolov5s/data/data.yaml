@@ -1,0 +1,11 @@
+names:
+- Outerwear
+- knitwear
+- Sweatshirts
+- Tees
+- Pants
+- Headwear
+- Accessories
+nc: 7
+train: "/content/drive/MyDrive/YOLO\u1106\u1169\u1103\u1166\u11AF/train.txt"
+val: "/content/drive/MyDrive/YOLO\u1106\u1169\u1103\u1166\u11AF/val.txt"

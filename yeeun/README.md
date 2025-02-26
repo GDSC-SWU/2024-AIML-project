@@ -1,6 +1,8 @@
 # GDG on Campus 2024 AI/ML 개인 프로젝트
 
 ## 👕 옷을 구별해주는 AI 서비스
+![Image](https://github.com/user-attachments/assets/bb0c31db-b5f2-4405-965f-7be7beda45de)
+
 https://clothes-dectention-29f6gnp4nanr7vymeaqwxw.streamlit.app/
 
 ## Introduction

@@ -7,10 +7,10 @@ https://clothes-dectention-29f6gnp4nanr7vymeaqwxw.streamlit.app/
 
 ## Introduction
 이 프로젝트는 YOLOv8과 Streamlit을 활용하여 실시간으로 의류 종류(Tshirt, jacketlong-dress, long-skirt, midi-dress, midi-skirt, pants, shirt, short, short-dress, short-skirt, skirt, sweater 등)를 분류하는 서비스입니다. 
-웹캠을 통해 입력된 영상을 기반으로 모델이 의류를 감지하고 분류하며, 실시간 카메라를 이용해 인식이 가능합니다.
+웹캠를 통해 입력된 영상을 기반으로 실시간으로 모델이 의류를 감지하고 분류합니다.
 
 ## Goal
-고객이 입고 있는 옷을 실시간 카메라로 빠르게 감지하여 비슷한 제품을 자동 추천해줄 수 있다. 
+고객이 입고 있는 옷을 실시간 카메라로 빠르게 감지하여 비슷한 제품을 자동 추천해줄 수 있도록 구현하는게 목표이다.
 
 ## Technology Stack
 - YOLOv8 – 실시간 객체 탐지 및 분류
